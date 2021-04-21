@@ -1,5 +1,6 @@
 #Adding config.py file.
 config.py
+.DS_Store
 
 # Adding additional file
 API_practice.ipynb
